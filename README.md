@@ -15,4 +15,3 @@
 | Dec 12, 2023|           |           |
 
 
-[Final Business Analysis](https://docs.google.com/document/d/1ka74GFVtkrU48M1ey7xwAkohXBHxRDM_xNpIUaFzTco/edit?usp=sharing)
