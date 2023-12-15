@@ -1,12 +1,13 @@
 import Image from 'next/image'
 import Hero from './components/Hero'
-import Navbar from "./components/Navbar";
+import Feature from "./components/Feature";
+
 
 export default function Home() {
   return (
     <main>
       <Hero />
-      <Navbar />
+      <Feature />
 
     </main>
   )
