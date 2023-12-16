@@ -1,6 +1,7 @@
 import Image from 'next/image'
 import Hero from './components/Hero'
 import Feature from "./components/Feature";
+import Testimonial from "./components/Testimonial";
 
 
 export default function Home() {
@@ -8,6 +9,7 @@ export default function Home() {
     <main>
       <Hero />
       <Feature />
+      <Testimonial />
 
     </main>
   )
