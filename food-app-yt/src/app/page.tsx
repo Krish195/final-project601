@@ -3,6 +3,9 @@ import Hero from './components/Hero'
 import Feature from "./components/Feature";
 import Testimonial from "./components/Testimonial";
 import CombinedComponent from './components/CombinedComponent';
+import Footer from './components/Footer';
+
+
 
 
 export default function Home() {
@@ -12,6 +15,7 @@ export default function Home() {
       <Feature />
       <Testimonial />
       <CombinedComponent />
+      <Footer />
 
     </main>
   )
