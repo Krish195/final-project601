@@ -44,7 +44,7 @@ const Featured = () => {
             <div className="space-y-4">
                 <h2 className="font-medium text-xl">Halwa</h2>
                 <p className="text-gray-700 text-[14px] xl:text-[16px]">
-                Mom's made Halwa. Poured with love.
+                Mom made Halwa. Poured with love.
                 </p>
             </div>
             </div>
