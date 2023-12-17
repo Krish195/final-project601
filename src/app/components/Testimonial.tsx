@@ -9,7 +9,7 @@ const Testimonial: React.FC = () => {
       </h2>
       <blockquote className="text-center text-gray-600 text-lg md:text-xl" style={{ marginTop: '50px' }}>
         <p>
-          "I had the most amazing experience at this restaurant! The food was absolutely delicious and the service was impeccable. It made me feel better to be here as some of my spending for every delicious food I buy goes to charity."
+          I had the most amazing experience at this restaurant! The food was absolutely delicious and the service was impeccable. It made me feel better to be here as some of my spending for every delicious food I buy goes to charity.
         </p>
         <div className="flex items-center justify-center mt-6">
           <div className="relative w-16 h-16 md:w-20 md:h-20">
