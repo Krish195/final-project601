@@ -22,7 +22,7 @@ const Contact: React.FC = () => {
           fontSize: '16px',
           color: '#666',
           marginBottom: '10px'
-        }}>123 Main StreetNew York, NY 10001</p>
+        }}>123 Main Street, New Jersey, NJ 10001</p>
         <p style={{
           fontSize: '16px',
           color: '#666',
