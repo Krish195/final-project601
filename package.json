@@ -1,16 +1,28 @@
 {
+  "name": "food-app-yt",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
   "dependencies": {
-    "react-icons": "^4.12.0"
+    "next": "^14.0.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
-  "name": "final-project601",
-  "description": "|\r |             |           |           |\r | Date        | Student 1 | Student 2 |\r |------------ |-----------|-----------|\r | Nov 13, 2023|     X     |     X     |\r | Nov 14, 2023|     X     |     X     |\r | Nov 16, 2023|     X     |     X     |\r | Nov 21, 2023|     X     |     X     |\r | Nov 23, 2023|     X     |     X     |\r | Nov 28, 2023|     X     |     X     |\r | Nov 30, 2023|     X     |     X     |\r | Dec 5, 2023 |     X     |     X     |\r | Dec 7, 2023 |           |     X     |\r | Dec 12, 2023|           |           |",
-  "version": "1.0.0",
-  "main": "index.js",
   "devDependencies": {
-    "@types/node": "^20.10.4"
-  },
-  "scripts": {},
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+    "@playwright/test": "^1.40.1",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10.0.1",
+    "eslint": "^8",
+    "eslint-config-next": "14.0.4",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0",
+    "typescript": "^5"
+  }
 }
