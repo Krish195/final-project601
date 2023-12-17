@@ -75,7 +75,7 @@ test('Chhole Bhature text is visible', async ({ page }) => {
 
 test('Halwa text description is correct', async ({ page }) => {
   await page.goto('http://localhost:3000/');
-  const description = page.locator('text=Mom\'s made Halwa. Poured with love.');
+  const description = page.locator('text=Mom made Halwa. Poured with love.');
   await expect(description).toBeVisible();
 });
 
