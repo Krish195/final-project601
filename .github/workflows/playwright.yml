@@ -17,8 +17,17 @@ jobs:
       run: npm ci
     - name: Install Playwright Browsers
       run: npx playwright install --with-deps
+    - name: Build the Next.js application
+      run: npm run build
+    - name: Start server
+      run: npm run start &
+    - name: Wait for server to be ready
+      run: sleep 10
     - name: Run Playwright tests
       run: npx playwright test
+    - name: Stop server
+      if: always()
+      run: kill $(jobs -p) || true
     - uses: actions/upload-artifact@v3
       if: always()
       with:
