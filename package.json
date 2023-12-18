@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "client-only": "^0.0.1",
     "next": "^14.0.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -16,6 +17,7 @@
   },
   "devDependencies": {
     "@playwright/test": "^1.40.1",
+    "@types/gtag.js": "^0.0.18",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
