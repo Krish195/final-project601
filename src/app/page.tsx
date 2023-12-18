@@ -5,7 +5,7 @@ import Testimonial from "./components/Testimonial";
 import CombinedComponent from './components/CombinedComponent';
 import Footer from './components/Footer';
 import GoogleAnalytics from './components/GoogleAnalytics';
-import CookieBanner from './components/CookieBanner'
+import CookieBanner from './components/CookieBanner';
 
 
 
