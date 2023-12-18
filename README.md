@@ -1,3 +1,20 @@
+# final-project601
+
+
+| Date        | Student 1 | Student 2 |
+|------------ |-----------|-----------|
+| Nov 7, 2023 |     X     |     X     |
+| Nov 9, 2023 |     X     |     X     |
+| Nov 14, 2023|     X     |     X     |
+| Nov 16, 2023|     X     |     X     |
+| Nov 21, 2023|     X     |     X     |
+| Nov 23, 2023|     X     |     X     |
+| Nov 28, 2023|     X     |     X     |
+| Nov 30, 2023|     X     |     X     |
+| Dec 5, 2023 |     X     |     X     |
+| Dec 7, 2023 |     X     |     X     |
+| Dec 12, 2023|           |           |
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -20,6 +37,13 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
+## Figma 
+
+Figma [Click here](https://www.figma.com/file/lesPtskAsZILemXQOEqptM/Luxury-Restaurant-(Community)?type=design&node-id=1%3A8&mode=design&t=iIXZuifyqARPw48t-1)
+
+## Business Analysis
+
+Business Analysis [Click Here](https://docs.google.com/document/d/1ka74GFVtkrU48M1ey7xwAkohXBHxRDM_xNpIUaFzTco/edit?usp=sharing)
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
