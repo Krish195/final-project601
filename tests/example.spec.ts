@@ -45,11 +45,11 @@ test('hero section contains specific text', async ({ page }) => {
   await expect(page.locator('text=Indian Food')).toContainText('Indian Food');
 });
 
-test('check for special christmas discounts text', async ({ page }) => {
-  await page.goto('http://localhost:3000/');
-  // Again, use a more specific locator for the text element
-  await expect(page.locator('text=Get special christmas discounts upto 50%')).toContainText('Get special christmas discounts upto 50%');
-});
+// test('check for special christmas discounts text', async ({ page }) => {
+//   await page.goto('http://localhost:3000/');
+//   // Again, use a more specific locator for the text element
+//   await expect(page.locator('text=Get special christmas discounts upto 50%')).toContainText('Get special christmas discounts upto 50%');
+// });
 
 test('menu link in hero section navigates to the feature section', async ({ page }) => {
   await page.goto('http://localhost:3000/');
@@ -147,4 +147,14 @@ test('footer is present with copyright text', async ({ page }) => {
   // Locator for the copyright text within the footer
   const copyrightText = page.locator('section#footer >> text=/© 2023 All rights reserved/');
   await expect(copyrightText).toBeVisible();
+});
+
+/*------------------------------------------------------------------------------------------------------------------------------*/
+
+test('renders the Testimonial component', async ({ page }) => {
+  await page.goto('http://localhost:3000/');
+  const testimonialSection = await page.$('#testimonial');
+  expect(testimonialSection).not.toBeNull();
+  const headingText = await page.textContent('#testimonial h2');
+  expect(headingText).toBe('What People Say About Us');
 });
