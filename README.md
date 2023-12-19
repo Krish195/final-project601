@@ -43,7 +43,12 @@ Figma [Click here](https://www.figma.com/file/lesPtskAsZILemXQOEqptM/Luxury-Rest
 
 ## Business Analysis
 
-Business Analysis [Click Here](https://docs.google.com/document/d/1ka74GFVtkrU48M1ey7xwAkohXBHxRDM_xNpIUaFzTco/edit?usp=sharing)
+Business Analysis [Click Here](https://docs.google.com/document/d/1ka74GFVtkrU48M1ey7xwAkohXBHxRDM_xNpIUaFzTco/edit?usp=sharing)'
+
+## UX Research Report
+
+Research Report [Click Here](/UX%20Research%20Report.pdf)
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
