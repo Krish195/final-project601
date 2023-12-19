@@ -49,6 +49,10 @@ Business Analysis [Click Here](https://docs.google.com/document/d/1ka74GFVtkrU48
 
 Research Report [Click Here](/UX%20Research%20Report.pdf)
 
+## Deployed Website
+
+Research Report [Click Here](https://final-project601-z36c.vercel.app/#feature)
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
