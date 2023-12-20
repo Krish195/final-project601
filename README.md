@@ -1,7 +1,7 @@
 # final-project601
 
 
-| Date        | Student 1 | Student 2 |
+| Date        | Person- 1 | Person- 2 |
 |------------ |-----------|-----------|
 | Nov 7, 2023 |     X     |     X     |
 | Nov 9, 2023 |     X     |     X     |
